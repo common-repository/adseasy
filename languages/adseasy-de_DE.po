@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ads Easy\n"
+"POT-Creation-Date: 2016-02-17 11:29+0200\n"
+"PO-Revision-Date: 2016-02-17 11:29+0200\n"
+"Last-Translator: Waldemar Stoffel <stoffel@atelier-furnf.de>\n"
+"Language-Team: Waldemar Stoffel <stoffel@atelier-furnf.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: adseasy.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: adseasy.php:131
+msgid "FAQ"
+msgstr "FAQ"
+
+#: adseasy.php:132
+msgid "Donate"
+msgstr "Spenden"
+
+#: adseasy.php:142 class-lib/A5_OptionPageClass.php:31
+#: class-lib/AE_AdminClass.php:48
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. Plugin URI of the plugin/theme
+#: adseasy.php:156 class-lib/AE_AdminClass.php:59
+msgid "http://wasistlos.waldemarstoffel.com/plugins-fur-wordpress/ads-easy"
+msgstr "http://blog.atelier-fuenf.de/wordpress-plugins/ads-easy"
+
+#: class-lib/A5_OptionPageClass.php:145
+msgid "Click to toggle"
+msgstr "Zum Umschalten klicken"
+
+#: class-lib/A5_OptionPageClass.php:382
+msgid "Not set"
+msgstr "Nicht gesetzt"
+
+#: class-lib/A5_WidgetClass.php:37
+msgid "Homepage"
+msgstr "Homepage"
+
+#: class-lib/A5_WidgetClass.php:38
+msgid "Frontpage (e.g. a static page as homepage)"
+msgstr "Frontpage (z.B. eine statische Seite als Homepage)"
+
+#: class-lib/A5_WidgetClass.php:39
+msgid "&#34;Page&#34; pages"
+msgstr "&#34;Seite&#34; Seiten"
+
+#: class-lib/A5_WidgetClass.php:40
+msgid "Category pages"
+msgstr "Kategorieseiten"
+
+#: class-lib/A5_WidgetClass.php:41
+msgid "Single post pages"
+msgstr "Artikelseiten"
+
+#: class-lib/A5_WidgetClass.php:42
+msgid "Archive pages"
+msgstr "Archivseiten"
+
+#: class-lib/A5_WidgetClass.php:43
+msgid "Post type archives"
+msgstr "Post Type Archive"
+
+#: class-lib/A5_WidgetClass.php:44
+msgid "Tag pages"
+msgstr "Schlagwortseiten"
+
+#: class-lib/A5_WidgetClass.php:45
+msgid "Attachments"
+msgstr "Attachments"
+
+#: class-lib/A5_WidgetClass.php:46
+msgid "Custom Taxonomy pages (only available, if having a plugin)"
+msgstr "Custom Taxonomy Seiten (gibt es nur mit entspr. Plugin)"
+
+#: class-lib/A5_WidgetClass.php:47
+msgid "Author pages"
+msgstr "Autorenseiten"
+
+#: class-lib/A5_WidgetClass.php:48
+msgid "Search Results"
+msgstr "Suchergebnisseiten"
+
+#: class-lib/A5_WidgetClass.php:49
+msgid "&#34;Not Found&#34;"
+msgstr "&#34;Nicht gefunden&#34;"
+
+#: class-lib/A5_WidgetClass.php:52
+msgid "Login Page (only available, if having a plugin)"
+msgstr "Login Seite (gibt es nur mit entspr. Plugin)"
+
+#: class-lib/A5_WidgetClass.php:54
+msgid "Check all"
+msgstr "Alle auswählen"
+
+#: class-lib/A5_WidgetClass.php:56
+msgid ""
+"Check, where you want to show the widget. By default, it is showing on the "
+"homepage and the category pages:"
+msgstr ""
+"Klicke an, wo das Widget gezeigt werden soll. Standardmäßig erscheint es auf "
+"der Homepage und in den Kategorien."
+
+#: class-lib/A5_WidgetClass.php:92
+msgid "Under image"
+msgstr "Unter dem Artikelbild"
+
+#: class-lib/A5_WidgetClass.php:92
+msgid "Left of image"
+msgstr "Links vom Artikelbild"
+
+#: class-lib/A5_WidgetClass.php:92
+msgid "Right of image"
+msgstr "Rechts vom Artikelbild"
+
+#: class-lib/A5_WidgetClass.php:92
+msgid "Don&#39;t show excerpt"
+msgstr "Auszug nicht anzeigen"
+
+#: class-lib/A5_WidgetClass.php:94
+msgid ""
+"Choose, whether or not to display the excerpt and whether it comes under the "
+"thumbnail or next to it."
+msgstr ""
+"Wähle, ob der Auszug angezeigt werden soll, und ob er unter das Thumbnail "
+"kommt oder daneben."
+
+#: class-lib/A5_WidgetClass.php:104
+msgid "Weight of the Post Title:"
+msgstr "Gewicht der Überschrift:"
+
+#: class-lib/A5_WidgetClass.php:108
+msgid "Left"
+msgstr "Links"
+
+#: class-lib/A5_WidgetClass.php:108
+msgid "Right"
+msgstr "Rechts"
+
+#: class-lib/A5_WidgetClass.php:108
+msgid "Center"
+msgstr "Zentriert"
+
+#: class-lib/A5_WidgetClass.php:108
+msgid "Justify"
+msgstr "Blocksatz"
+
+#: class-lib/A5_WidgetClass.php:110
+msgid "How do you want to align the Post Title?"
+msgstr "Wie wildst du die Überschrift ausrichten?"
+
+#: class-lib/A5_WidgetClass.php:121
+msgid ""
+"Check to have an additional &#39;read more&#39; link at the end of the "
+"excerpt."
+msgstr ""
+"Anklicken, um eigen zusätzlichen &#39;meer lesen&#39;-Link am Ende des "
+"Auszugs anzuzeigen."
+
+#: class-lib/A5_WidgetClass.php:122
+#, php-format
+msgid ""
+"Write here some text for the &#39;read more&#39; link. By default, it is %s:"
+msgstr ""
+"Schreide hier den Text für den &#39;meer lesen&#39;-Link. Standardmäßig wist "
+"es %s:"
+
+#: class-lib/A5_WidgetClass.php:123
+msgid ""
+"If you want to style the &#39;read more&#39; link, you can enter a class "
+"here."
+msgstr ""
+"Um den &#39;meer lesen&#39;-Link zu stylen, einfach hier eind Klasse angeben."
+
+#: class-lib/AE_AdminClass.php:59
+msgid "Plugin Support"
+msgstr "Plugin Support"
+
+#: class-lib/AE_AdminClass.php:63
+msgid "Do you use Google Adsense in the widget?"
+msgstr "Benutzt du Google AdSense im Widget?"
+
+#: class-lib/AE_AdminClass.php:76
+msgid "Debug Info"
+msgstr "Info zur Fehlersuche"
+
+#: class-lib/AE_AdminClass.php:95
+msgid "Use the Google AdSense Tags"
+msgstr "Google AdSense Tags benutzen"
+
+#: class-lib/AE_AdminClass.php:97
+msgid "Check to use the Google AdSense Tags"
+msgstr "Anklicken, um Google AdSense Tags zu benutzen"
+
+#: class-lib/AE_AdminClass.php:99
+msgid "Search Engines:"
+msgstr "Suchmaschinen:"
+
+#: class-lib/AE_AdminClass.php:99
+msgid ""
+"How long should the widget be displayed to visitors from search engines (in "
+"minutes)?"
+msgstr ""
+"Wie lange soll das Widget Besuchern, die von Suchmaschinen kommen, gezeigt "
+"werden (in Minuten)?"
+
+#: class-lib/AE_AdminClass.php:101
+msgid ""
+"You can enter your own style for the widgets here. This will overwrite the "
+"styles of your theme."
+msgstr ""
+"Du kannst deinen eigenen Stil für die Widgets hier eingeben. Das wird die "
+"Stile deines Themes überschreiben."
+
+#: class-lib/AE_AdminClass.php:101
+msgid ""
+"If you leave this empty, you can still style every instance of the widget "
+"individually."
+msgstr ""
+"Wenn du das Feld leer lässt, kannst du immer noch jede Instanz des Widgets "
+"individuell stylen."
+
+#: class-lib/AE_AdminClass.php:103
+msgid "Compress Style Sheet:"
+msgstr "Stylesheet Komprimieren:"
+
+#: class-lib/AE_AdminClass.php:103
+msgid "Click here to compress the style sheet."
+msgstr "Anklicken, um das Stylesheet zu komprimieren."
+
+#: class-lib/AE_AdminClass.php:105
+msgid "Debug:"
+msgstr "Debug:"
+
+#: class-lib/AE_AdminClass.php:105
+msgid ""
+"If you can&#39;t reach the dynamical style sheet, you&#39;ll have to display "
+"the styles inline. By clicking here you can do so."
+msgstr ""
+"In manchen Fällen kann das virtuelle Style Sheet nicht erreicht werden. Ein "
+"Ablegen des CSS im Quellcode hilft dann. Hier klicken, um CSS inline zu "
+"schreiben."
+
+#: class-lib/AE_AdminClass.php:113
+msgid "To activate the use of the tags, check the box."
+msgstr "Um die Tags zu aktivieren, klicke das Kästchen an."
+
+#: class-lib/AE_AdminClass.php:164
+msgid "Please give numeric value for the minutes."
+msgstr "Bitte gib einen numerischen Wert für die Minuten an."
+
+#: class-lib/AE_WidgetClass.php:18
+msgid ""
+"You can show ads in your sidebars and other widgetareas with this widget. "
+"Define, on what kind of pages they will show up."
+msgstr ""
+"Zeige Anzeigen in deinen Sidebars und in anderen Widget Areas mit diesem "
+"Widget. Bestimme selbst auf welchen Seitentypen die Anzeigen erscheinen."
+
+#: class-lib/AE_WidgetClass.php:80
+msgid "Title (will be displayed in blog):"
+msgstr "Titel (erscheint im Blog):"
+
+#: class-lib/AE_WidgetClass.php:81
+msgid "Adname (internal widgettitle):"
+msgstr "Anzeigenname (interner Titel des Widgets):"
+
+#: class-lib/AE_WidgetClass.php:83
+msgid "Show to logged in users."
+msgstr "Anzeige bei eingeloggten Usern."
+
+#: class-lib/AE_WidgetClass.php:84
+msgid "Show to visitors, who come from search engines."
+msgstr "Anzeige bei Besuchern von Suchmaschinen."
+
+#: class-lib/AE_WidgetClass.php:85
+msgid "Show to other visitors."
+msgstr "Anzeige bei anderen Benutzern."
+
+#: class-lib/AE_WidgetClass.php:86
+msgid "Just paste the code of your ad here."
+msgstr "Kopiere einfach den Anzeigen Code in dieses Feld."
+
+#: class-lib/AE_WidgetClass.php:87
+#, php-format
+msgid ""
+"Here you can finally style the widget. Simply type something like%1$s"
+"%2$sborder: 1px solid;%1$sborder-color: #000000;%3$s%1$sto get just a black "
+"line around the widget. If you leave that section empty, your theme will "
+"style the widget."
+msgstr ""
+"Hier kannst du das Widget stylen. Einfach etwas wie%1$s%2$sborder-left: 1px "
+"dashed;%1$sborder-color: #000000;%3$s%1$seingeben, um eine schwarze "
+"Außenlinie zu erzeugen.  Wenn dieses Feld leer bleibt, übernimmt dein Theme "
+"das Styling des Widgets."
+
+#. Plugin Name of the plugin/theme
+msgid "Ads Easy"
+msgstr "Ads Easy"
+
+#. Description of the plugin/theme
+msgid ""
+"If you don't want to have Ads in your posts and you don't need other stats "
+"than those you get from wordpress and your adservers, this is the most easy "
+"solution. Place the code you get to the widget, style the widget and define, "
+"on what pages it shows up and to what kind of visitors."
+msgstr ""
+"Wenn du Ads in deinem Blog haben willst und keine anderen Statistiken "
+"brauchst, als die die von Wordpress oder deinem Ad-Server geliefert werden, "
+"ist dies die einfachste Lösung. Kopiere den Anzeigencode im Widget, style es "
+"und bestimme, wo das Widget angezeigt wird und für welche Besucher."
+
+#. Author of the plugin/theme
+msgid "Stefan Crämer"
+msgstr "Stefan Crämer"
+
+#. Author URI of the plugin/theme
+msgid "http://www.stefan-craemer.com"
+msgstr "http://www.stefan-craemer.com"
+
+#~ msgid "Waldemar Stoffel"
+#~ msgstr "Waldemar Stoffel"
+
+#~ msgid "http://www.atelier-fuenf.de"
+#~ msgstr "http://www.atelier-fuenf.de"
